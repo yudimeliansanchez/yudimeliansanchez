@@ -2,8 +2,7 @@
 
 
 ## Encuéntrame en:
-<a href="www.linkedin.com/in/yudimeliansanchez">
-<img src="https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB"></a>
+<a href="www.linkedin.com/in/yudimeliansanchez">Linkedin</a><img src="https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=4EA94B">
 <img src="https://img.shields.io/badge/Twitch-20232A?style=for-the-badge&logo=twitch&logoColor=61DAFB">
 <h3>
