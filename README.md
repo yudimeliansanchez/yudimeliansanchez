@@ -1,15 +1,6 @@
 <!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
 
-```shell
- { “name” : “Yudi Melián Sánchez”,
-   “role” : “Frontend Dev | MERN Stack”,
-   “data” : 
-     { 
-      "Linkedin" : "www.linkedin.com/in/yudimeliansanchez",
-      “Blogger"       : "https://xatakalinux.wordpress.com"
-     }
- }
-```
+
 ## Encuéntrame en:
 <img src="https://img.shields.io/badge/Linkedin-20232A?style=for-the-badge&logo=linkedin&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=4EA94B">
